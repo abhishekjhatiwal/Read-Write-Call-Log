@@ -13,9 +13,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import com.example.readwritecalls.CallLogHelper
-import com.example.readwritecalls.CallLogItemRow
-import com.example.readwritecalls.InsertCallLogScreen
-import com.example.readwritecalls.RequestPermissions
 import com.example.readwritecalls.data.CallLogItem
 
 @Composable
